@@ -10,8 +10,9 @@ $ nvm install 18.12.0
 3. use installed version of node
 $ nvm use 18.12.0
  
-4. install vue cli
+4. install vue cli and vue-router for fue 3
 $ npm install -g @vue/cli@5.0.8
+$ npm install vue-router@4
 
 4.1 when set on another computer after cloning git go to project folder 'workplace-management-system' and
 $ npm install
