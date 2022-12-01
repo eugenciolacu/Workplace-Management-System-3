@@ -17,7 +17,7 @@ $ npm install vue-router@4
 4.1 when set on another computer after cloning git go to project folder 'workplace-management-system' and
 $ npm install
 this will install missing packages globally
-Ignore 5 and 6 steps.
+Ignore 5 steps.
  
 5. create vue project
 $ winpty vue.cmd create workplace-management-system
